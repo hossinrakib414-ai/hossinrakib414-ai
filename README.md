@@ -1,6 +1,5 @@
-### Hi there 👋, I'am Rakib Hossen
-#### AI Driven Full Stack Web Engineer,
-https://www.linkedin.com/in/rakib-hossen-722b232a7/
+## Hi there 👋, I'am Rakib Hossen
+### AI Driven Full Stack Web Engineer,
 
 ## 👋 About Me
 
