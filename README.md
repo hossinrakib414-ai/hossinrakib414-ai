@@ -1,4 +1,4 @@
-https://github.com/hossinrakib414-ai/hossinrakib414-ai/blob/main/ChatGPT%20Image%20Jun%2028,%202026,%2009_17_58%20PM.png?raw=true
+
 ## Hi there 👋, I'am Rakib Hossen
 ### AI Driven Full Stack Web Engineer,
 
