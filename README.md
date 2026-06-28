@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Rakib Hossen
 #### AI Driven Full Stack Web Engineer,
-![AI Driven Full Stack Web Engineer,](https://www.linkedin.com/in/rakib-hossen-722b232a7/overlay/background-photo/)
+https://www.linkedin.com/in/rakib-hossen-722b232a7/
 
 ## 👋 About Me
 
@@ -27,8 +27,6 @@ Skills: HTML / CSS / JavaScript / TypeScript / React / Next.js / Node.js / Expre
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossinrakib414-ai)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hossinrakib414-ai&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hossinrakib414-ai/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/hossinrakib414-ai)  
 
