@@ -1,8 +1,9 @@
+## Hi there 👋, I'am Rakib Hossen
 <p align="center">
   <img src="https://raw.githubusercontent.com/hossinrakib414-ai/hossinrakib414-ai/4150c35d3741d43f62d6e9b6256999ade7ac483f/ChatGPT%20Image%20Jun%2028%2C%202026%2C%2009_17_58%20PM.png" width="100%" alt="GitHub Banner">
 </p>
-## Hi there 👋, I'am Rakib Hossen
-### AI Driven Full Stack Web Engineer,
+
+## AI Driven Full Stack Web Engineer,
 
 ## 👋 About Me
 
